@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e213e90a1f07e1a3","type":"file","file":"{0462E885-9756-4B85-B70A-E944157AC544}.png","x":-920,"y":-820,"width":400,"height":167},
+		{"id":"bfd182d4a16f0362","type":"file","file":"{D0150D0E-B3AF-4318-AC99-0043521306D7}.png","x":-400,"y":-768,"width":400,"height":230},
+		{"id":"6ccf819c04d5b61d","type":"file","file":"{2232D352-BF4E-4CD3-ADDB-848B74D714A9}.png","x":-980,"y":-538,"width":399,"height":327},
+		{"id":"faead7efc9889f92","type":"file","file":"{2EB87881-D3E6-49B9-8F07-2451E7375619} 3.png","x":-520,"y":-440,"width":394,"height":400},
+		{"id":"69c4291c1bf05d41","type":"link","url":"https://help.obsidian.md/syntax","x":-740,"y":-1280,"width":1000,"height":280},
+		{"id":"e8a2b50859331928","type":"text","text":"ergdgfh","x":-485,"y":-798,"width":250,"height":60}
+	],
+	"edges":[]
+}
