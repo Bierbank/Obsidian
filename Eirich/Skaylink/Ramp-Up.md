@@ -10,8 +10,8 @@ Gegenmaßnahmen bei verdächtigen Aktivitäten:
 + Sender-IP sperren
 
 To Do:
- - [ ] Bertram fragen wegen fehlg. Login von ihm seit 01.10
- - [ ] Linus Zimmermann cmd
+ - [x] Bertram fragen wegen fehlg. Login von ihm seit 01.10
+ - [x] Linus Zimmermann cmd
  - [ ] Dimitri meldet sich wegen leerem Sentinel-Tenant
 
 ![[Sentinel_Bertram.png]]
