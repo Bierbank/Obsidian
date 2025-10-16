@@ -13,6 +13,7 @@ To Do:
  - [x] Bertram fragen wegen fehlg. Login von ihm seit 01.10
  - [x] Linus Zimmermann cmd
  - [ ] Dimitri meldet sich wegen leerem Sentinel-Tenant
+ - [ ] Dimitri schickt den Export nochmal
 
 ![[Sentinel_Bertram.png]]
 
