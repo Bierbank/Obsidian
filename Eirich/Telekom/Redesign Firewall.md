@@ -38,6 +38,15 @@ Hardheim gleiche Leitung!!! Hier vielleicht ein 5G-Backup
 
 HA-Lösung favorisiert da ansonsten kein Internet in Külsheim
 
-- [ ] 5G/LTE Abdeckung prüfen in H35 und 36
+- [x] 5G/LTE Abdeckung prüfen in H35 und 36
 - [x] Info Zusammenschreiben an Markus
 - [ ] Schriftliche Bestätigung/Bestellung in KW45
+
+
+
+## Abstimmung mit Markus
+
+Szenario 1/Full HA ist von uns aus gesetzt, Termin am Montag mit Tim
+
+Zu beachten: 
+**Wir wollen weiterhin mit den bekannten Personen aus dem Support (Würzburg) arbeiten**
