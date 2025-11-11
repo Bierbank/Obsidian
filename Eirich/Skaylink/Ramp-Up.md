@@ -22,6 +22,25 @@ To Do:
 
 
 
+## 11.11.25
+
+Ansprechpartner: Luca und mich als Kontakt hinterlegt mit Mail und Handynr.
+
+Einwilligung für Ergreifung von Gegenmaßnahmen -> ==Details siehe Operational Manual==
+
+Defender for Endpoint Device Discovery: Übersicht über nicht-managed Devices
+
+Monatliche Reports, erster Report im Januar für Dezember da November kein voller Monat war
+
+Tickets/Incidents werden automatisch an Zammad gesendet
+
+
+- [ ] Server Full Scan? -> Hohe CPU Last, eher nicht empfohlen, bei Clients nicht so schlimm laut Skaylink -> ==Info an Skaylink mit CSC-Freigabe!!!!!==
+- [ ] CSC Freigabe -> Markus/Tim per Mail reicht
+- [ ] Operativer Betrieb startet ohne freigegebene Aktionen
+- [ ] FreshDesk Zugang kommt von Katharina 
+- [ ] Server Selective Isolation -> Unterschied zu Full Isolation -> bestimmte Anwendungen dürfen noch kommunizieren -> Exclusions im Security Portal -> falls man das will, ansonsten Server komplett isolieren oder halt nicht, Ausnahmen müssen halt selbst definiert werden                   https://learn.microsoft.com/en-us/defender-endpoint/isolation-exclusions
+
 
 
 
