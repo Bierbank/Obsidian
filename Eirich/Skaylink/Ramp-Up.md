@@ -45,3 +45,6 @@ Tickets/Incidents werden automatisch an Zammad gesendet
 
 
 
+## 19.11
+
+Password Reset bei AD Account: Funktioniert nicht, keine Ahnung warum. Wenn ein Sync läuft wird wieder das "alte" AD Passwort nach Azure synchronisiert. Reset muss also vom Admin lokal im AD gemacht werden !!!
