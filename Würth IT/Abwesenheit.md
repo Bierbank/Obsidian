@@ -1,0 +1,2 @@
+Dear colleagues,
+I will be out of the office until October 9, 2026 (inclusive). For data protection reasons, your message will not be forwarded. In urgent cases, please contact my team at network-nl@wuerth-it.com or by calling +49 7940 930 1700. I will get back to you as soon as possible starting October 12, 2026.

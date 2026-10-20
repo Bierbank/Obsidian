@@ -1,10 +1,6 @@
 
-Neue Vorschläge:
-
-USA?
-Sollte ähnlich wie marbet eine kleine Firma sein, idealerweise einstellige Anzahl Locations
-
-Heute mittag Hardwoods abchecken, evtl. morgen mit Bernd klären
-
-Vorschlag von Louis: AWKG Standorte (keine Niederlassungen)?
+**Testkunde AWKG Standorte**
+was brauchen wir vorher noch:
+Kalkulation muss fertig sein (materialliste, Netzteile extender)
+vertrag
 
