@@ -91,4 +91,4 @@ Zielland muss eine juristische Person sein und dort registriert sein -> ist ja i
 
 Export interessiert der Versand innerhalb des Landes nicht, muss man mit lokalen Kollegen abklären -> Steuerrecht innerhalb des Landes relevant
 ==🔴Juristisch trotzdem mit Wolfram klären!==
-
+==🔴Mit USA WINA Kollegen sprechen!==
