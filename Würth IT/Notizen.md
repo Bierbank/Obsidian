@@ -84,3 +84,5 @@ warum Internet Access? wenn ja, welche ports
 kein nac auf den ports, vlan 83 einstellen
 ports alle auf Access einstellen, nicht hybrid oder trunk
 
+
+Hardware an HQ schicken und die 
