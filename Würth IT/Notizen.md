@@ -85,4 +85,10 @@ kein nac auf den ports, vlan 83 einstellen
 ports alle auf Access einstellen, nicht hybrid oder trunk
 
 
-Hardware an HQ schicken und die 
+### Hardware an HQ schicken und die HQ verteilen weiter?
+
+Zielland muss eine juristische Person sein und dort registriert sein -> ist ja immer eine Würth Group Firma
+
+Export interessiert der Versand innerhalb des Landes nicht, muss man mit lokalen Kollegen abklären -> Steuerrecht innerhalb des Landes relevant
+==🔴Juristisch trotzdem mit Wolfram klären!==
+
